@@ -2,7 +2,7 @@
 title: "AvocadoGG1.github.io"
 ---
 
-This is a Quarto website.
+Hello world :)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
