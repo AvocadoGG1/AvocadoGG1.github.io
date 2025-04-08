@@ -1,11 +1,15 @@
 ---
-title: "AvocadoGG1.github.io"
+title: "Andrew Garcia Leopold"
+image: img/images.png
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:andrewleopold1@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/AvocadoGG1
 ---
-
-Hello world :)
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

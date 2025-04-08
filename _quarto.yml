@@ -4,16 +4,19 @@ project:
 
 website:
   title: "Andrew Garcia Leopold"
+  description: "Andrew Garcia Leopold is student at CSU Northridge"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
       - projects.qmd
+      - blog.qmd
 
 format:
   html:
     theme: cosmo
+    mainfont: Georgia
+    font-size: 1.2rem
+    linkcolor: "#0ae5ea"
+    monofont: arial
     css: styles.css
     toc: true
 
