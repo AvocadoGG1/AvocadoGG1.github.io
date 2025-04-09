@@ -1,4 +1,6 @@
 ---
 title: "Blog"
 listing: default
+type: grid
+categories: true
 ---
