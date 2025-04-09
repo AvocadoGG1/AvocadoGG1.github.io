@@ -1,6 +1,5 @@
 ---
-title: "Projects"
-editor: visual
+title: "Project"
+listing:
+  contents: projects
 ---
-
-## Projects

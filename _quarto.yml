@@ -3,22 +3,27 @@ project:
   output-dir: docs
 
 website:
+  # favicon: 
   title: "Andrew Garcia Leopold"
   description: "Andrew Garcia Leopold is student at CSU Northridge"
   navbar:
     left:
       - projects.qmd
       - blog.qmd
+  
 
 format:
   html:
     theme: cosmo
+    # light: flatly
+    # dark: darkly
     mainfont: Georgia
-    font-size: 1.2rem
+    font-size: 1rem
     linkcolor: "#0ae5ea"
     monofont: arial
     css: styles.css
     toc: true
+   
 
 
 

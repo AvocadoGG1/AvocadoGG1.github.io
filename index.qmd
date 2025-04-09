@@ -12,4 +12,8 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/AvocadoGG1
+    - text: Linkedin 
+      icon: linkedin
+      href: https://www.linkedin.com/in/andrew-garcia-leopold-765b21314/
 ---
+Hi, I'm Andrew. 
