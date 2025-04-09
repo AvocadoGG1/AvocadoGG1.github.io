@@ -16,4 +16,7 @@ about:
       icon: linkedin
       href: https://www.linkedin.com/in/andrew-garcia-leopold-765b21314/
 ---
-Hi, I'm Andrew. 
+
+# Hi, I'm Andrew.
+
+I am a first-year student at California State University Northridge for Computer Science.
