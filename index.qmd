@@ -1,6 +1,7 @@
 ---
 title: "Andrew Garcia Leopold"
 image: img/images.png
+toc: false
 about:
   template: trestles
   image-shape: rounded

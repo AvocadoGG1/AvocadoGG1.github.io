@@ -2,5 +2,8 @@
 title: "Blog"
 listing: default
 type: grid
+contents: 
+  - "test/*.qmd"
+  
 categories: true
 ---
